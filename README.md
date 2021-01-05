@@ -1,0 +1,2 @@
+# test
+Prezentacja działania gita 
